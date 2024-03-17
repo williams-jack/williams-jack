@@ -1,15 +1,16 @@
-![Most used languages according to my available repositories](https://github-readme-stats.vercel.app/api/top-langs?username=williams-jack)
-<!--
-**williams-jack/williams-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Work Info
+* Software Engineer II (& Resident Meme Lord) @ Wood Mackenzie
+* Contributor to [CodeGrade]:
+  * Lead Developer on [Orca]()
+  * Feature Contributor to [Bottlenose]()
 
-Here are some ideas to get you started:
+### ⚡ Interests
+* 📚 Post-modernist Philosophy
+* 📷 Photography (Mostly B&W)
+* 🎵 Music
+  * 🎹 Piano (~12 Years)
+  * 🎸 Guitar (~1 Year)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Current Learning Interests
+* 📻 Networking and Scalability
+* 🦫 Go(lang)
