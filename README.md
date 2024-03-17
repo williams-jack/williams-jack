@@ -4,8 +4,8 @@
   * Lead Developer on [Orca](https://github.com/CodeGrade/orca)
   * Feature Contributor to [Bottlenose](https://github.com/CodeGrade/bottlenose)
 * 🔣 Most Used Languages:
- * ⌨️ TypeScript/JavaScript
- * 🐍 Python
+  * ⌨️ TypeScript/JavaScript
+  * 🐍 Python
 
 ### ⚡ Interests
 * 📚 Post-modernist Philosophy
