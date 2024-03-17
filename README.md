@@ -1,8 +1,11 @@
 ### 💻 Work Info
-* Software Engineer II (& Resident Meme Lord) @ Wood Mackenzie
-* Contributor to [CodeGrade]:
-  * Lead Developer on [Orca]()
-  * Feature Contributor to [Bottlenose]()
+* 👨‍💼 Software Engineer II (& Resident Meme Lord) @ Wood Mackenzie
+* 🐬 Contributor to [CodeGrade](https://github.com/CodeGrade):
+  * Lead Developer on [Orca](https://github.com/CodeGrade/orca)
+  * Feature Contributor to [Bottlenose](https://github.com/CodeGrade/bottlenose)
+* 🔣 Most Used Languages:
+ * ⌨️ TypeScript/JavaScript
+ * 🐍 Python
 
 ### ⚡ Interests
 * 📚 Post-modernist Philosophy
