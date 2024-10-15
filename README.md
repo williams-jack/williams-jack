@@ -6,6 +6,7 @@
 * 🔣 Most Used Languages:
   * ⌨️ TypeScript/JavaScript
   * 🐍 Python
+  * ♦️ Ruby
 
 ### ⚡ Interests
 * 📚 Post-modernist Philosophy
