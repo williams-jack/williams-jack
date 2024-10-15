@@ -8,7 +8,7 @@
   * 🐍 Python
   * ♦️ Ruby
 
-### ⚡ Interests
+### 🧐 Hobbies
 * 📚 Post-modernist Philosophy
 * 📷 Photography (Mostly B&W)
 * 🎵 Music
