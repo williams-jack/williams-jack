@@ -5,7 +5,7 @@
   * 🐍 Python
   * ♦️ Ruby
 
-### Noteworthy Projects
+### 🔨 Noteworthy Projects
 * 🐬 Contributor to [CodeGrade](https://github.com/CodeGrade):
   * Lead Developer on [Orca](https://github.com/CodeGrade/orca)
   * Feature Contributor to [Bottlenose](https://github.com/CodeGrade/bottlenose)
